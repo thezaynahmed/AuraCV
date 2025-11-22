@@ -434,7 +434,7 @@ const EngineArchitecture = () => {
           </div>
 
           {/* --- THE CARDS --- */}
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full max-w-6xl z-20 px-4 pt-8">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full max-w-6xl z-20 px-4">
              
              {/* Card 1: React */}
              <FadeIn delay={0.4} className="w-full">
@@ -555,7 +555,7 @@ const ForEveryone = () => (
         <FadeIn>
           <h2 className="text-3xl md:text-5xl font-bold text-white mb-6">Built for every career stage.</h2>
           <p className="text-xl text-zinc-400 max-w-2xl">
-            Whether you're applying for your first internship or your VP role, AuraCV adapts to you.
+            Whether you&apos;re applying for your first internship or your VP role, AuraCV adapts to you.
           </p>
         </FadeIn>
       </div>
@@ -568,7 +568,7 @@ const ForEveryone = () => (
             </div>
             <h3 className="text-xl font-bold text-white mb-2">Students & Grads</h3>
             <p className="text-zinc-400 text-sm mb-6">
-              Don't know what to write? Use our <strong>proven templates</strong> to structure your limited experience into a professional narrative.
+              Don&apos;t know what to write? Use our <strong>proven templates</strong> to structure your limited experience into a professional narrative.
             </p>
             <ul className="space-y-2 text-sm text-zinc-500">
               <li className="flex gap-2"><Check size={16} className="text-blue-500" /> GPA & Coursework sections</li>
